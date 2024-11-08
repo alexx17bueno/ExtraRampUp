@@ -1,4 +1,4 @@
-![logotipo js]([https://github.com/BeaSerrano/LandingRocketBridge/blob/main/img/logo-header.png](https://ayudawp.com/wp-content/uploads/2017/01/javascript-logo-escudo.png) "logotipo js")
+![logotipo js](https://ayudawp.com/wp-content/uploads/2017/01/javascript-logo-escudo.png) "logotipo js")
 
 # EJERCICIOS >>> Javascript
 
