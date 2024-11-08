@@ -2,7 +2,7 @@
 
 # Landing RocketBridge
 
-¡Buenvenidos a RocketBridge, vuestra Landing Page para superar el bloque RampUp!
+¡Bienvenidos a RocketBridge, vuestra Landing Page para superar el bloque RampUp!
 
 El ejercicio consiste en replicar el diseño de una imagen de referencia `Landing-Rocket.jpg`. Deberás utilizar HTML, CSS y aplicar media queries para adaptar el diseño a diferentes tamaños de pantalla. Esta es la referencia de versión mobile de este diseño: `Landing-Rocket-Mobile.jpg`.
 
