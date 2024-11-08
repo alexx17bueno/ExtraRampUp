@@ -1,5 +1,3 @@
-![logotipo RocketBridge](https://github.com/BeaSerrano/LandingRocketBridge/blob/main/img/logo-header.png "logotipo RocketBridge")
-
 # Prueba Recuperación Bloque RampUp
 
 ¡Bienvenidos a la prueba para superar el bloque RampUp!
