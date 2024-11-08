@@ -1,4 +1,4 @@
-![logotipo js](https://ayudawp.com/wp-content/uploads/2017/01/javascript-logo-escudo.png) "logotipo js")
+![logotipo js](https://ayudawp.com/wp-content/uploads/2017/01/javascript-logo-escudo.png)
 
 # EJERCICIOS >>> Javascript
 
